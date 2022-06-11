@@ -9,4 +9,6 @@ import './index.css'
 const divRoot = document.getElementById('root');
 const root = createRoot(divRoot);
 
-root.render( <CounterApp value = {16032000} /> );
+root.render( <CounterApp value = {10} /> );
+
+
